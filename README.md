@@ -1,1 +1,1 @@
-# TestScratchExtension
+# Scratch CatOS Extension
