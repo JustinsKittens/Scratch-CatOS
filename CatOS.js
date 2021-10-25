@@ -1,12 +1,4 @@
-
-// create by scratch3-extension generator
-const ArgumentType = Scratch.ArgumentType;
-const BlockType = Scratch.BlockType;
-const formatMessage = Scratch.formatMessage;
-const log = Scratch.log;
-
-const menuIconURI = null;
-const blockIconURI = null;
+// MIT license
 
 class CatOS{
   constructor (runtime){
